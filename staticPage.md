@@ -58,3 +58,7 @@ public class Q {
 ### **Related articles :**
 
 - [Introduction to Java](#)
+- [History of Java](#)
+- [Java vs C++ Python](#)
+- [How to Download and Install Java](#)
+- [Setting up the Environment in Java](#)
